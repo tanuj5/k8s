@@ -1,7 +1,7 @@
 apiVersion: apps/v1
 kind: ReplicaSet
 metadata:
-    name: myweb-rs
+    name: myweb-rs1
 spec:
     replicas: 3
     selector: 
